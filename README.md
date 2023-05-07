@@ -7,4 +7,4 @@
 📫 How to reach me https://www.linkedin.com/in/nishigandhianalyst/
 
 Achivement:
-Hackare Rank : 5 Star
+HackerRank : 5 Star
